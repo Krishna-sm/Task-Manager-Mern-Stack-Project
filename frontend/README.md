@@ -1,0 +1,1 @@
+bootstrap axios react toastify react-icons react-router
